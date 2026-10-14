@@ -1,0 +1,19 @@
+{
+  "name": "safaa-io",
+  "owner": {
+    "name": "Safaa Al Basha (SAFAA.IO)"
+  },
+  "metadata": {
+    "description": "Arabic Claude Skills from SAFAA.IO",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "safaa-skills",
+      "source": "./",
+      "description": "Three Arabic-answering skills: khutuwat (pick, secure and hand over one AI use case at work), prompt-to-skill (turn a repeated prompt into a Skill), announcement-explainer (explain an AI announcement from the source only).",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

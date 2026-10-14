@@ -1,0 +1,11 @@
+{
+  "name": "safaa-skills",
+  "version": "0.1.0",
+  "description": "Arabic Claude Skills from SAFAA.IO: khutuwat, prompt-to-skill, announcement-explainer. Smoke-tested only (n=1 each).",
+  "author": {
+    "name": "Safaa Al Basha (SAFAA.IO)"
+  },
+  "repository": "https://github.com/Safaa-Albasha/safaa-templates",
+  "license": "MIT",
+  "keywords": ["arabic", "skills", "ai-adoption", "prompts"]
+}
