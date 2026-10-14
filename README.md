@@ -3,6 +3,8 @@
 قوالب مجانية وClaude Skills من **SAFAA.IO** (صفاء الباشا).
 كل قالب صفحة واحدة تملؤها بنفسك أو مع Claude، في المشاريع والجودة والبيانات والعروض والبناء بالذكاء الاصطناعي.
 
+اقرأها وانسخها ونزّلها مرتبة على **[safaa.io/templates](https://safaa.io/templates/)**، ومعها الدليل PDF: [`guide/safaa-templates-guide.pdf`](guide/safaa-templates-guide.pdf).
+
 - القوالب في مجلد [`templates/`](templates).
 - الـSkills في مجلد [`skills/`](skills)، وملفاتها المضغوطة في [`dist/`](dist). طريقة التثبيت: [`INSTALL-ar.md`](INSTALL-ar.md).
 
